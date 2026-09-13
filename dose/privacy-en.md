@@ -10,9 +10,7 @@ This Privacy Policy explains what information may be processed when using the ap
 
 Dose allows users to enter information required for the application's features, such as medications, schedules, treatments, reminders, and other information related to medication management.
 
-This information is used exclusively to provide the application's functionality.
-
-**[CONFIRM BEFORE PUBLISHING: specify whether this information is stored only on the user's device or whether cloud synchronization/storage is used.]**
+This information is stored locally on the user's device and is not transmitted to or stored on E&E Labs servers.
 
 Dose does not use medication or treatment information for targeted advertising.
 
