@@ -88,9 +88,12 @@ Users may also be able to change choices related to advertising consent through 
 
 ## 10. Data Deletion
 
-Users may delete information entered into Dose using the features available within the application.
+Information entered into Dose is stored locally on the user's device.
 
-If information is stored through online services or additional assistance is required, users may contact us using the contact information below.
+Users can delete this information using the features available within the application. Uninstalling the application may also remove locally stored application data, depending on the device and operating system settings.
+
+For questions regarding privacy or data handling, users may contact us using the contact information below.
+
 
 ## 11. Changes to This Privacy Policy
 
