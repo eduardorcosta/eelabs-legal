@@ -106,4 +106,4 @@ Para dúvidas relacionadas à privacidade ou ao uso de dados:
 
 **E&E Labs**
 
-E-mail: **[EMAIL DE SUPORTE]**
+E-mail: **eesoftwarelabs@gmail.com**
