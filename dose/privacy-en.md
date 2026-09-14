@@ -107,4 +107,4 @@ For questions regarding privacy or data processing:
 
 **E&E Labs**
 
-Email: **eduardorcosta@gmail.com**
+Email: **eesoftwarelabs@gmail.com**
