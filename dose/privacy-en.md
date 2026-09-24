@@ -41,7 +41,7 @@ Depending on the user's location and privacy choices, advertisements may be pers
 
 Google and its advertising partners may process information such as device identifiers, approximate IP-based location, interactions with advertisements, and other information necessary to deliver, measure, and prevent fraud related to advertising.
 
-Consent. Where required by applicable law — for example, for users in the European Economic Area, the United Kingdom, and Switzerland [CONFIRMAR: regions configured in AdMob "Privacy & messaging"] — Dose shows a consent message provided by Google's User Messaging Platform before any advertising is requested. If you do not consent to personalized advertising, or if your choice cannot be determined, Dose requests only non-personalized ads, or no ads. In regions where Google's consent platform does not require a consent message, ads may be personalized.
+Consent. Where required by applicable law — for example, for users in the European Economic Area, the United Kingdom, and Switzerland — Dose shows a consent message provided by Google's User Messaging Platform before any advertising is requested. If you do not consent to personalized advertising, or if your choice cannot be determined, Dose requests only non-personalized ads, or no ads. In regions where Google's consent platform does not require a consent message, ads may be personalized.
 
 App Tracking Transparency (iPhone and iPad). After the consent message, Dose asks for your permission through Apple's App Tracking Transparency prompt. Personalized ads are requested only if you allow tracking. If you do not allow it, only non-personalized ads are requested, and the device's advertising identifier (IDFA) is not available to the app or its advertising partners. You can change this at any time in iOS Settings > Privacy & Security > Tracking.
 
@@ -118,6 +118,6 @@ The date of the latest revision will be displayed at the beginning of this docum
 
 For questions regarding privacy or data processing:
 
-E&E Labs [CONFIRMAR: legal name of the person or company responsible for Dose, and country]
+E&E Labs
 
 Email: eesoftwarelabs@gmail.com
