@@ -1,110 +1,66 @@
-# Privacy Policy — Dose
+# Política de Privacidade — Água, por favor
 
-**Last updated: September 13, 2026**
+Última atualização: 24 de setembro de 2026.
 
-Dose is an application developed and operated under the **E&E Labs** brand.
+O **Água, por favor** é um aplicativo de acompanhamento de hidratação desenvolvido pela E&E Labs. Esta política explica quais dados o app usa, onde eles ficam e quais escolhas você tem.
 
-This Privacy Policy explains what information may be processed when using the application, why it is used, and which third-party services may participate in that processing.
+## Resumo
 
-## 1. Information Provided by the User
+- **Não temos servidor próprio.** Seus registros de hidratação ficam no seu aparelho.
+- **Não pedimos login nem conta.** O app não coleta nome, e-mail ou documento.
+- **Analytics só com o seu consentimento.** O Firebase Analytics (Google) fica desligado até você aceitar, e você pode mudar isso a qualquer momento em Ajustes.
+- **Relatórios de erro ficam sempre ativos** (Firebase Crashlytics), para mantermos o app estável.
+- **Não há anúncios nesta versão.**
 
-Dose allows users to enter information required for the application's features, such as medications, schedules, treatments, reminders, and other information related to medication management.
+## Quais dados o app guarda, e onde
 
-This information is stored locally on the user's device and is not transmitted to or stored on E&E Labs servers.
+Os dados abaixo ficam **somente no seu aparelho**, no armazenamento local de preferências do sistema operacional:
 
-Dose does not use medication or treatment information for targeted advertising.
+- histórico de consumo de água (data e quantidade por dia, dos últimos 13 dias);
+- meta diária;
+- personagem escolhido, tema (claro/escuro), idioma e formato de número;
+- preferências de lembretes (ligados ou desligados);
+- sua escolha sobre o compartilhamento de dados de uso (analytics).
 
-## 2. Usage and Diagnostic Data
+Nenhum desses dados é enviado para nós nem para terceiros.
 
-The application may collect technical and usage information to understand how the app is used, improve the user experience, and identify technical problems.
+## Backup e troca de aparelho
 
-For this purpose, Dose may use services such as:
+- **Android:** o app permite que o sistema inclua esses dados no backup automático da sua conta Google ou na transferência ao trocar de aparelho, conforme a configuração de backup do próprio Android. Nesse caso, os dados ficam guardados de forma criptografada na infraestrutura de backup do Google ligada à sua conta; o app não tem acesso a esse backup.
+- **iOS:** os dados seguem o comportamento padrão de backup do iCloud do seu aparelho, quando ele está ativado.
+- Se preferir que os dados do app não entrem em backups, desative o backup nas configurações do sistema (Android: Configurações → Sistema → Backup; iOS: Ajustes → [seu nome] → iCloud → Backup do iCloud).
 
-- **Google Firebase Analytics**, for usage and interaction analytics;
-- **Firebase Crashlytics**, for identifying crashes, errors, and related technical information.
+## Permissões
 
-These services may receive information such as device type, operating system version, application version, usage events, and technical information related to the operation of the application.
+- **Notificações:** usada apenas para os lembretes de hidratação, agendados e exibidos localmente no aparelho. Os lembretes começam desligados, e a permissão só é pedida quando você os liga em Ajustes. Nenhuma notificação vem de servidor externo.
 
-## 3. Advertising
+## Dados de uso (Firebase Analytics — Google)
 
-The free version of Dose may display advertisements provided by **Google AdMob**.
+Quando você **aceita** compartilhar dados de uso, o app ativa o Firebase Analytics, que coleta eventos padrão de uso (por exemplo, abertura do app e sessões) e identificadores técnicos do aparelho e da instalação, incluindo, quando disponível, o identificador de publicidade do aparelho. Esses dados nos ajudam a entender como o app é usado e a melhorá-lo.
 
-Depending on the user's location and privacy choices, advertisements may be personalized or non-personalized.
+- **Fica desligado até você decidir.** Na primeira abertura, o app pergunta se você quer compartilhar; se você recusar ou fechar a pergunta, nada é coletado.
+- **Você pode mudar quando quiser**, em Ajustes → "Compartilhar dados de uso".
+- Desligar interrompe a coleta a partir daquele momento; os dados enviados antes, enquanto estava ligado, seguem as regras de retenção do Google Analytics.
+- O Analytics **não recebe** seu histórico de hidratação, sua meta nem nada do que você registra no app.
 
-Google and its advertising partners may process information such as device identifiers, approximate IP-based location, interactions with advertisements, and other information necessary to deliver, measure, and prevent fraud related to advertising.
+Os dados são tratados pelo Google conforme a [Política de Privacidade do Google](https://policies.google.com/privacy) e os termos do Firebase. No momento, o Firebase está presente apenas na versão Android do app.
 
-Where required by applicable law, the application will request consent before using information for personalized advertising.
+## Relatórios de erro (Firebase Crashlytics — Google)
 
-Users may be able to change certain advertising privacy choices later through options provided within the application.
+Quando o app trava ou encontra um erro inesperado, o Firebase Crashlytics envia um relatório técnico (modelo do aparelho, versão do sistema, versão do app e o rastro do erro) para nos ajudar a corrigir problemas. Esse relatório **fica sempre ativo**, independentemente da escolha sobre dados de uso, e não inclui seus registros de hidratação. Ele é tratado pelo Google nos mesmos termos acima.
 
-## 4. Subscriptions and In-App Purchases
+## Publicidade
 
-Dose may offer Premium features through subscriptions or in-app purchases.
+Esta versão do app **não exibe anúncios**. Se uma versão futura passar a exibi-los, esta política será atualizada antes do lançamento dessa versão, explicando o que passa a ser coletado, por quem e quais escolhas você terá.
 
-Payments are processed by the applicable platform store, including:
+## Como apagar seus dados
 
-- Google Play;
-- Apple App Store.
+Como os registros ficam no seu aparelho, você pode apagá-los desinstalando o app ou limpando os dados dele nas configurações do sistema. Isso não apaga cópias que estejam em backups do sistema (veja a seção de backup).
 
-Dose does not directly receive or store credit card numbers or other payment information used to complete purchases.
+## Contato
 
-The application may use **RevenueCat** to manage and validate purchases and subscription status.
+Dúvidas sobre esta política: **eesoftwarelabs@gmail.com**.
 
-RevenueCat may process transaction-related information such as the purchased product, subscription status, renewal date, platform, and identifiers necessary to determine whether a user is entitled to Premium features.
+## Alterações nesta política
 
-## 5. Health-Related Information
-
-Information entered by users concerning medications, treatments, schedules, or reminders is used to provide Dose's functionality.
-
-This information is not sold and is not used for targeted advertising.
-
-Dose is intended as a personal organization and medication management tool. It does not provide medical diagnosis, prescribe treatment, or replace advice from a qualified healthcare professional.
-
-## 6. Sharing of Information
-
-Dose does not sell users' personal information.
-
-Certain technical information may be processed by service providers necessary for the operation of the application, including Google Firebase, Google AdMob, RevenueCat, Google Play, and Apple App Store.
-
-These service providers operate under their own privacy policies and data-processing practices.
-
-## 7. Children
-
-Dose is not specifically directed to children.
-
-If this changes in the future, this Privacy Policy will be updated and appropriate measures will be implemented to comply with applicable requirements for children's privacy and data protection.
-
-## 8. Security
-
-Reasonable measures are used to protect information processed through the application.
-
-However, no method of electronic storage or transmission can guarantee absolute security.
-
-## 9. User Rights and Choices
-
-Depending on applicable law and the user's location, users may have rights concerning access, correction, deletion, restriction, or objection to the processing of certain personal information.
-
-Users may also be able to change choices related to advertising consent through privacy options provided within the application.
-
-## 10. Data Deletion
-
-Information entered into Dose is stored locally on the user's device.
-
-Users can delete this information using the features available within the application. Uninstalling the application may also remove locally stored application data, depending on the device and operating system settings.
-
-For questions regarding privacy or data handling, users may contact us using the contact information below.
-
-
-## 11. Changes to This Privacy Policy
-
-This Privacy Policy may be updated when the application, its services, or applicable legal requirements change.
-
-The date of the latest revision will be displayed at the beginning of this document.
-
-## 12. Contact
-
-For questions regarding privacy or data processing:
-
-**E&E Labs**
-
-Email: **eesoftwarelabs@gmail.com**
+Mudanças relevantes aparecerão nesta página, com nova data de "última atualização", antes de qualquer versão do app que as motive ser publicada.
