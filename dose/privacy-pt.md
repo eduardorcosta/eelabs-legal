@@ -43,7 +43,7 @@ Dependendo da localização do usuário e das escolhas de privacidade realizadas
 
 O Google e seus parceiros podem processar informações como identificadores do dispositivo, localização aproximada baseada no endereço IP, interações com anúncios e outras informações necessárias para fornecer, medir e prevenir fraudes relacionadas à publicidade.
 
-Consentimento. Quando exigido pela legislação aplicável — por exemplo, para usuários do Espaço Econômico Europeu, do Reino Unido e da Suíça [CONFIRMAR: regiões configuradas em "Privacidade e mensagens" do AdMob] —, o Dose exibe uma mensagem de consentimento da plataforma de mensagens do usuário do Google (User Messaging Platform) antes de solicitar qualquer anúncio. Se o usuário não consentir com anúncios personalizados, ou se a escolha não puder ser determinada, o Dose solicita apenas anúncios não personalizados, ou nenhum anúncio. Nas regiões em que a plataforma de consentimento do Google não exige essa mensagem, os anúncios podem ser personalizados.
+Consentimento. Quando exigido pela legislação aplicável — por exemplo, para usuários do Espaço Econômico Europeu, do Reino Unido e da Suíça —, o Dose exibe uma mensagem de consentimento da plataforma de mensagens do usuário do Google (User Messaging Platform) antes de solicitar qualquer anúncio. Se o usuário não consentir com anúncios personalizados, ou se a escolha não puder ser determinada, o Dose solicita apenas anúncios não personalizados, ou nenhum anúncio. Nas regiões em que a plataforma de consentimento do Google não exige essa mensagem, os anúncios podem ser personalizados.
 
 Transparência de rastreamento de apps (iPhone e iPad). Depois da mensagem de consentimento, o Dose pede permissão pelo aviso de Transparência de Rastreamento de Apps (App Tracking Transparency) da Apple. Anúncios personalizados só são solicitados se o usuário permitir o rastreamento. Se não permitir, apenas anúncios não personalizados são solicitados, e o identificador de publicidade do dispositivo (IDFA) não fica disponível para o aplicativo nem para seus parceiros de publicidade. É possível alterar essa escolha a qualquer momento em Ajustes do iOS > Privacidade e Segurança > Rastreamento.
 
@@ -120,6 +120,6 @@ A data da última atualização será indicada no início deste documento.
 
 Para dúvidas relacionadas à privacidade ou ao uso de dados:
 
-E&E Labs [CONFIRMAR: nome legal da pessoa ou empresa responsável pelo Dose e país]
+E&E Labs
 
 E-mail: eesoftwarelabs@gmail.com
