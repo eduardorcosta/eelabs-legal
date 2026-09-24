@@ -64,3 +64,4 @@ Dúvidas sobre esta política: **eesoftwarelabs@gmail.com**.
 ## Alterações nesta política
 
 Mudanças relevantes aparecerão nesta página, com nova data de "última atualização", antes de qualquer versão do app que as motive ser publicada.
+
