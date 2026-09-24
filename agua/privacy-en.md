@@ -1,61 +1,69 @@
-# Política de Privacidade — Água, por favor
+# Privacy Policy — Água, por favor
 
-Última atualização: 24 de setembro de 2026.
+Last updated: September 24, 2026.
 
-O **Água, por favor** é um aplicativo de acompanhamento de hidratação desenvolvido pela E&E Labs. Esta política explica quais dados o app usa, onde eles ficam e quais escolhas você tem.
+**Água, por favor** is a hydration tracking app developed by E&E Labs. This policy explains what data the app uses, where it is kept, and the choices you have.
 
-## Resumo
+## Summary
 
-- **Não temos servidor próprio.** Seus registros de hidratação ficam no seu aparelho.
-- **Não pedimos login nem conta.** O app não coleta nome, e-mail ou documento.
-- **Analytics só com o seu consentimento.** O Firebase Analytics (Google) fica desligado até você aceitar, e você pode mudar isso a qualquer momento em Ajustes.
-- **Relatórios de erro ficam sempre ativos** (Firebase Crashlytics), para mantermos o app estável.
-- **Não há anúncios nesta versão.**
+- **We have no server of our own.** Your hydration records stay on your device.
+- **No login or account.** The app does not collect your name, email or ID.
+- **Analytics only with your consent.** Firebase Analytics (Google) stays off until you accept, and you can change this at any time in Settings.
+- **Crash reports are always on** (Firebase Crashlytics), so we can keep the app stable.
+- **There are no ads in this version.**
 
-## Quais dados o app guarda, e onde
+## What data the app stores, and where
 
-Os dados abaixo ficam **somente no seu aparelho**, no armazenamento local de preferências do sistema operacional:
+The data below stays **only on your device**, in the operating system's local preferences storage:
 
-- histórico de consumo de água (data e quantidade por dia, dos últimos 13 dias);
-- meta diária;
-- personagem escolhido, tema (claro/escuro), idioma e formato de número;
-- preferências de lembretes (ligados ou desligados);
-- sua escolha sobre o compartilhamento de dados de uso (analytics).
+- water intake history (date and amount per day, for the last 13 days);
+- daily goal;
+- chosen character, theme (light/dark), language and number format;
+- reminder preferences (on or off);
+- your choice about sharing usage data (analytics).
 
-Nenhum desses dados é enviado para nós nem para terceiros.
+None of this data is sent to us or to third parties.
 
-## Backup e troca de aparelho
+## Backup and device transfer
 
-- **Android:** o app permite que o sistema inclua esses dados no backup automático da sua conta Google ou na transferência ao trocar de aparelho, conforme a configuração de backup do próprio Android. Nesse caso, os dados ficam guardados de forma criptografada na infraestrutura de backup do Google ligada à sua conta; o app não tem acesso a esse backup.
-- **iOS:** os dados seguem o comportamento padrão de backup do iCloud do seu aparelho, quando ele está ativado.
-- Se preferir que os dados do app não entrem em backups, desative o backup nas configurações do sistema (Android: Configurações → Sistema → Backup; iOS: Ajustes → [seu nome] → iCloud → Backup do iCloud).
+- **Android:** the app allows the system to include this data in your Google account's automatic backup, or in the transfer when you switch devices, according to Android's own backup settings. In that case, the data is stored encrypted in Google's backup infrastructure tied to your account; the app has no access to that backup.
+- **iOS:** the data follows your device's default iCloud backup behavior, when it is enabled.
+- If you prefer the app's data not to be included in backups, turn off backup in your system settings (Android: Settings → System → Backup; iOS: Settings → [your name] → iCloud → iCloud Backup).
 
-## Permissões
+## Permissions
 
-- **Notificações:** usada apenas para os lembretes de hidratação, agendados e exibidos localmente no aparelho. Os lembretes começam desligados, e a permissão só é pedida quando você os liga em Ajustes. Nenhuma notificação vem de servidor externo.
+- **Notifications:** used only for hydration reminders, scheduled and shown locally on the device. Reminders start turned off, and the permission is only requested when you turn them on in Settings. No notification comes from an external server.
 
-## Dados de uso (Firebase Analytics — Google)
+## Usage data (Firebase Analytics — Google)
 
-Quando você **aceita** compartilhar dados de uso, o app ativa o Firebase Analytics, que coleta eventos padrão de uso (por exemplo, abertura do app e sessões) e identificadores técnicos do aparelho e da instalação, incluindo, quando disponível, o identificador de publicidade do aparelho. Esses dados nos ajudam a entender como o app é usado e a melhorá-lo.
+When you **accept** sharing usage data, the app turns on Firebase Analytics, which collects standard usage events (for example, app opens and sessions) and technical device and install identifiers, including, when available, the device's advertising identifier. This data helps us understand how the app is used and improve it.
 
-- **Fica desligado até você decidir.** Na primeira abertura, o app pergunta se você quer compartilhar; se você recusar ou fechar a pergunta, nada é coletado.
-- **Você pode mudar quando quiser**, em Ajustes → "Compartilhar dados de uso".
-- Desligar interrompe a coleta a partir daquele momento; os dados enviados antes, enquanto estava ligado, seguem as regras de retenção do Google Analytics.
-- O Analytics **não recebe** seu histórico de hidratação, sua meta nem nada do que você registra no app.
+- **It stays off until you decide.** On first launch, the app asks whether you want to share; if you decline or dismiss the question, nothing is collected.
+- **You can change it at any time** in Settings → "Share usage data".
+- Turning it off stops collection from that moment on; data sent earlier, while it was on, follows Google Analytics' retention rules.
+- Analytics **does not receive** your hydration history, your goal, or anything you log in the app.
 
-Os dados são tratados pelo Google conforme a [Política de Privacidade do Google](https://policies.google.com/privacy) e os termos do Firebase. No momento, o Firebase está presente apenas na versão Android do app.
+This data is processed by Google under the [Google Privacy Policy](https://policies.google.com/privacy) and Firebase's terms. At the moment, Firebase is only present in the Android version of the app.
 
-## Relatórios de erro (Firebase Crashlytics — Google)
+## Crash reports (Firebase Crashlytics — Google)
 
-Quando o app trava ou encontra um erro inesperado, o Firebase Crashlytics envia um relatório técnico (modelo do aparelho, versão do sistema, versão do app e o rastro do erro) para nos ajudar a corrigir problemas. Esse relatório **fica sempre ativo**, independentemente da escolha sobre dados de uso, e não inclui seus registros de hidratação. Ele é tratado pelo Google nos mesmos termos acima.
+When the app crashes or hits an unexpected error, Firebase Crashlytics sends a technical report (device model, OS version, app version and the error trace) to help us fix problems. This report is **always on**, regardless of your usage data choice, and does not include your hydration records. It is processed by Google under the same terms above.
 
-## Publicidade
+## Advertising
 
-Esta versão do app **não exibe anúncios**. Se uma versão futura passar a exibi-los, esta política será atualizada antes do lançamento dessa versão, explicando o que passa a ser coletado, por quem e quais escolhas você terá.
+This version of the app **does not show ads**. If a future version starts showing them, this policy will be updated before that version is released, explaining what becomes collected, by whom, and what choices you will have.
 
-## Como apagar seus dados
+## How to delete your data
 
-Como os registros ficam no seu aparelho, você pode apagá-los desinstalando o app ou limpando os dados dele nas configurações do sistema. Isso não apaga cópias que estejam em backups do sistema (veja a seção de backup).
+Since your records stay on your device, you can delete them by uninstalling the app or clearing its data in your system settings. This does not delete copies kept in system backups (see the backup section).
+
+## Contact
+
+Questions about this policy: **eesoftwarelabs@gmail.com**.
+
+## Changes to this policy
+
+Relevant changes will appear on this page, with a new "last updated" date, before any app version that motivates them is published.
 
 ## Contato
 
